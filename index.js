@@ -1,4 +1,4 @@
-var name = "Joe"
+var name = "Susan"
 var height = "74"
 
 if (name === "Susan") {
@@ -6,6 +6,7 @@ if (name === "Susan") {
 } else {
     console.log("Expected the name to be Susan")
 }
+
 
 
 // Don't worry about this
